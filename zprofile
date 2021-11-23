@@ -9,6 +9,7 @@ alias gpo='git push origin'
 alias gst='git stash'
 alias grm='git rebase master'
 alias gl='git log'
+alias gunt='git clean -f -x'
 
 alias dps='docker ps'
 alias dlist='docker ps -a -q'
